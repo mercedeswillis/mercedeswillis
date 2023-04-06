@@ -17,8 +17,8 @@ Tools & Software
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mercedeswillis&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="mercedeswillis" /></p>
 
-<h3 align="center">See Me:</h3>
-<p align="center">
+<h3 align="left">See Me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com](https://www.linkedin.com/in/mercedeswillis3dart/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://twitter.com](https://twitter.com/MercedesW3D" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@MercedesWillis3D" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="30" width="30" /></a>
@@ -28,5 +28,5 @@ Tools & Software
 </p>
 
 <br>
-<p align="center"><img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=mercedeswillis&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="mercedeswillis" align = "center"/>
-<img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=mercedeswillis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="mercedeswillis" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mercedeswillis&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="mercedeswillis" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercedeswillis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="mercedeswillis" align = "center"/></p>
