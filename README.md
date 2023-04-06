@@ -16,8 +16,8 @@ Tools & Software
 - Unity, Unreal Engine
 
 <p align="left">
-<a href="https://www.linkedin.com](https://www.linkedin.com/in/mercedeswillis3dart/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com](https://twitter.com/MercedesW3D" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mercedeswillis3dart/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://twitter.com/MercedesW3D" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@MercedesWillis3D" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="30" width="30" /></a>
 <a href="https://www.instagram.com/contact.3dart.world/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="30" /></a>
 <a href="https://www.behance.net/mercedeswillis1" target="blank"><img align="center" src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" alt="behance" height="30" width="30" /></a>
