@@ -28,5 +28,4 @@ Tools & Software
 </p>
 
 <br>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mercedeswillis&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="mercedeswillis" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercedeswillis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="mercedeswillis" align = "center"/></p>
+<p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mercedeswillis&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="mercedeswillis" align = "left"/></p>
