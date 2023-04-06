@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mercedeswillis/mercedeswillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a senior 3d artist focused in characters development for cinematic and advertising. I have 8+ years of experience with 3d modeling, texturing, rigging, and animation area.
 I've always been interested in art and computer graphics since I was a kid. I started my studies as a 3d character Artist with the goal of working in feature animation films or in the game industry.
 I consider myself a curious person that always is improving his skills with the study of new technologies related art anatomy, digital Sculpture, 3D texturing, Lighting and Composition.
@@ -28,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
